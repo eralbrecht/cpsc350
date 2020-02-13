@@ -1,3 +1,5 @@
 #include <iostream>
 using namespace std;
-cout << "HelloWorld";
+int main(){
+	cout << "HelloWorld";
+}
